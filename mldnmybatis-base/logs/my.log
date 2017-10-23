@@ -1,0 +1,11 @@
+2017-10-23 21:52:03,567 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==>  Preparing: INSERT INTO member(mid,name,age,salary,birthday,note) VALUES (?,?,?,?,?,?) 
+2017-10-23 21:52:03,674 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==> Parameters: mldn - 1595047320(String), 你好 - 1595047320(String), null, 8000.0(Double), 2017-10-23 21:52:03.008(Timestamp), 是一个不错的好人 - 1595047320(String)
+2017-10-23 21:52:03,675 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - <==    Updates: 1
+2017-10-23 22:32:13,016 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==>  Preparing: INSERT INTO member(mid,name,age,salary,birthday,note) VALUES (?,?,?,?,?,?) 
+2017-10-23 22:32:13,188 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==> Parameters: mldn - 1321925786(String), 你好 - 1321925786(String), null, 8000.0(Double), 2017-10-23 22:32:11.501(Timestamp), 是一个不错的好人 - 1321925786(String)
+2017-10-23 22:32:13,190 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - <==    Updates: 1
+2017-10-23 22:32:13,381 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==>  Preparing: INSERT INTO member(mid,name,age,salary,birthday,note) VALUES (?,?,?,?,?,?) 
+2017-10-23 22:32:13,382 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==> Parameters: mldn - 1321925786(String), 你好 - 1321925786(String), null, 8000.0(Double), 2017-10-23 22:32:13.369(Timestamp), 是一个不错的好人 - 1321925786(String)
+2017-10-23 22:32:42,436 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==>  Preparing: INSERT INTO member(mid,name,age,salary,birthday,note) VALUES (?,?,?,?,?,?) 
+2017-10-23 22:32:42,496 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - ==> Parameters: mldn - 1319549340(String), 你好 - 1319549340(String), null, 8000.0(Double), 2017-10-23 22:32:41.397(Timestamp), 是一个不错的好人 - 1319549340(String)
+2017-10-23 22:32:42,497 DEBUG [cn.mldn.mapping.MemberNS.doCreate] - <==    Updates: 1
